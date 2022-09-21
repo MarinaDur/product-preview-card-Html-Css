@@ -1,0 +1,83 @@
+body {
+  background-color: hsl(30, 38%, 92%);
+}
+.main-con{
+  width: 1440px;
+  height: 1080px;
+  background-color:  hsl(0, 0%, 100%);
+  margin: auto;
+}
+
+img {
+  width: 720px;
+  float: left;
+  margin-right: 60px;
+}
+
+h3 {
+  color: hsl(228, 12%, 48%);
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700px;
+  font-size: 1.8rem;
+  letter-spacing: 12px;
+  padding-top: 60px;
+  padding-bottom: 30px;
+  text-shadow: 1px 1px 1px;
+
+}
+h1{
+  color: hsl(212, 21%, 14%);
+  font-family: 'Fraunces', serif;
+  font-weight: bolder;
+  font-size: 5rem;
+  display: flex;
+  width: 30%;
+  line-height: 1;
+  margin: 0;
+  padding-bottom: 30px;
+
+}
+
+p {
+  color: hsl(228, 12%, 48%);
+  display: flex;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  width: 35%;
+  line-height: 1.5;
+
+}
+
+h2 {
+  color: hsl(158, 36%, 37%);
+  font-size: 5rem;
+  font-family: 'Fraunces', serif;
+  position: relative;
+  margin-bottom: 120px;
+}
+
+h4 {
+  color: hsl(228, 12%, 48%);
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  font-weight: normal;
+  position: absolute;
+  right: 1050px;
+  bottom: 570px;
+
+  text-decoration: none;-line: line-through;
+
+
+}
+
+.btn {
+  background-color: hsl(158, 36%, 25%);
+  border-radius: 16px;
+  padding: 30px 150px;
+  margin-left: 57px;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  text-decoration: none;
+
+}
